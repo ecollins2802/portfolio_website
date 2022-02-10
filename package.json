@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ecollins2802/portfolio_website#readme",
   "devDependencies": {
-    "node-sass": "^4.14.1"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {}
 }
